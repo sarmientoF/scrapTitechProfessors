@@ -1,0 +1,86 @@
+index	siteName	code	job	jobCode	lastName	firstName	category	lastNameHiragana	firstNameHiragana	categoryNumber	firstNameEnglish	lastNameEnglish	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	selection	selectionCode	url	url	id		lastNameKatakana	firstNameKatakana				
+1	融合理工学系	027	准教授	002	青柳	貴洋	あ	あおやぎ	たかひろ	1	Takahiro	Aoyagi	電気電子系	017	電気電子コース	017	融合理工学系	027	地球環境共創コース	027																					環境電磁工学	Electromagnetic compatibility (EMC)	電波伝搬	Wave propagation					http://www.aoyagi.ee.e.titech.ac.jp/blog/ja/	http://www.aoyagi.ee.e.titech.ac.jp/blog/	key_rid=1000275241		ｱｵﾔｷﾞ	ﾀｶﾋﾛ		
+3	融合理工学系	027	准教授	002	秋田	大輔	あ	あきた	だいすけ	1	Daisuke	Akita	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エンジニアリングデザインコース	002	融合理工学系	027	エネルギーコース	001																	航空宇宙システム	Aerospace systems	惑星探査システム	Planetary exploration system	高速空気力学	Aerodynamics			http://www.ide.titech.ac.jp/~akita/	http://www.ide.titech.ac.jp/~akita/	key_rid=6000021710		ｱｷﾀ	ﾀﾞｲｽｹ		
+5	融合理工学系	027	准教授	002	阿部	直也	あ	あべ	なおや	1	Naoya	Abe	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エンジニアリングデザインコース	002																					環境・社会持続性評価	International development	国際開発	Sustainability assessment	環境経済学	Applied economics		Environmental policy	http://www.ide.titech.ac.jp/~nabe/wp/	http://www.ide.titech.ac.jp/~nabe/wp/	key_t2r2Rid=CTT100511071		ｱﾍﾞ	ﾅｵﾔ		
+	融合理工学系	027	助教	004	嚴島	怜	あ	いつくしま	れい	2	Rei	Itsukushima	融合理工学系	027	地球環境共創コース	027																									水災害	Water hazard	河川生態系	Stream ecology	河川地形	River topography	流域管理	Watershed management			key_rid=B000322121		ｲﾂｸｼﾏ	ﾚｲ		
+7	融合理工学系	027	助教	004	稲垣	厚至	あ	いながき	あつし	2	Atsushi	Inagaki	融合理工学系	027	地球環境共創コース	027																									都市気象学	Urban meteorology	環境流体力学	Environmental fluid mechanics					http://www.ide.titech.ac.jp/~kandalab/	http://www.ide.titech.ac.jp/~kandalab/en/index.html	key_rid=6000012456		ｲﾅｶﾞｷ	ｱﾂｼ		
+	融合理工学系	027	特定教授	009	梅宮	直樹	あ	うめみや	なおき	5	Naoki	Umemiya	融合理工学系	027	地球環境共創コース	027																									比較教育学	Comparative education	高等教育政策	Higher education policy	国際開発・協力	International development/cooperation	事業評価	Project evaluation					ｳﾒﾐﾔ	ﾅｵｷ		
+9	融合理工学系	027	准教授	002	江頭	竜一	あ	えがしら	りゅういち	1	Ryuichi 	Egashira	融合理工学系	027	地球環境共創コース	027																									分離精製工学、プロセス合成	Separation and purification process 	溶媒抽出	Solvent extraction 	吸着	Adsorption 	相平衡	Phase equilibrium 	http://www.ide.titech.ac.jp/~regashir/	http://www.ide.titech.ac.jp/~regashir/	key_rid=1000203881		ｴｶﾞｼﾗ	ﾘｭｳｲﾁ		
+11	融合理工学系	027	教授	001	鼎	信次郎	か	かなえ	しんじろう	3	Shinjiro 	Kanae	土木・環境工学系	026	土木工学コース	026	融合理工学系	027	地球環境共創コース	027																					地球の水循環	Terrestrial hydrology	水災害	Water hazard	気候変動	Climate change	河川流域マネジメント	Water resources	https://kanaelab.jimdo.com/	https://kanaelab.jimdo.com/	key_rid=1000292223		ｶﾅｴ	ｼﾝｼﾞﾛｳ		
+13	融合理工学系	027	教授	001	神田	学	か	かんだ	まなぶ	3	Manabu	Kanda	融合理工学系	027	地球環境共創コース	027	土木・環境工学系	026	土木工学コース	026																					大気環境	Atmospheric environment	都市気象学	Urban climate	流体力学	Fluid dynamics			http://www.ide.titech.ac.jp/~kandalab/ja/index.html	http://www.ide.titech.ac.jp/~kandalab/en/index.html	key_rid=1000203920		ｶﾝﾀﾞ	ﾏﾅﾌﾞ		
+32	融合理工学系	027	教授	001	木内	豪	か	きのうち	つよし	3	Tsuyoshi	Kinouchi	融合理工学系	027	地球環境共創コース	027	土木・環境工学系	026	土木工学コース	026																					水資源・水防災	Water resources management	水循環解析	Hydrologic analysis	水質モデリング	Water quality modeling	土砂輸送解析	Analysis of sediment transport	http://fa.depe.titech.ac.jp/kinouchi/index-j.html	http://fa.depe.titech.ac.jp/kinouchi/index.html	key_rid=6000021726		ｷﾉｳﾁ	ﾂﾖｼ		
+16	融合理工学系	027	助教	004	クルニアワン	ウィナルト	か	くるにあわん	うぃなると	3	Winarto	Kurniawan	融合理工学系	027	地球環境共創コース	027																									未利用資源の有効利用	Utilization of waste material	ゼオライト合成	Zeolite synthesis	環境保護触媒	Environmental catalysis			http://www.ide.titech.ac.jp/~hinode/home_jp.html	http://www.ide.titech.ac.jp/~hinode/home_eng.html	key_t2r2Rid=CTT100509447		ｸﾙﾆｱﾜﾝ	ｳｨﾅﾙﾄ		
+17	融合理工学系	027	教授	001	クロス	ジェフリー　S.	か	くろす	じぇふりー すこっと	1	Jeffrey S.	Cross	融合理工学系	027	エネルギーコース	001	材料系	020	材料コース	020	融合理工学系	027	地球環境共創コース	027																	化学工学	Chemical engineering	材料工学	Materials science	AI教育	AI in education	エネルギー政策	Energy policy	https://jscross18.wixsite.com/crosslab	https://jscross18.wixsite.com/crosslab	key_rid=6000012476		ｸﾛｽ	ｼﾞｪﾌﾘｰ ｽｺｯﾄ		
+	融合理工学系	027	助教	004	小山	光彦	か	こやま	みつひこ	3	Mitsuhiko	Koyama	融合理工学系	027	地球環境共創コース	027																									環境生物工学	Environmental bioengineering	廃棄物バイオマスの有効利用	Utilization of waste biomass							key_t2r2Rid=CTT100763072		ｺﾔﾏ	ﾐﾂﾋｺ		
+18	融合理工学系	027	助教	004	齋藤	健太郎	さ	さいとう	けんたろう	4	Kentaro	Saito	融合理工学系	027	地球環境共創コース	027																									無線通信	Telecommunication	移動無線通信システム	Mobile wireless communication system	無線伝搬	Radio propagation			http://www.ap.ide.titech.ac.jp/index-j.html	http://www.ap.ide.titech.ac.jp/index.html	key_rid=B000339769		ｻｲﾄｳ	ｹﾝﾀﾛｳ		
+20	融合理工学系	027	特任教授	005	佐々木	正和	さ	ささき	まさかず	4	Masakazu	Sasaki	融合理工学系	027	地球環境共創コース	027																																			key_t2r2Rid=CTT100692410		ｻｻｷ	ﾏｻｶｽﾞ		
+42	融合理工学系	027	准教授	002	佐藤	由利子	さ	さとう	ゆりこ	4	Yuriko	Sato	融合理工学系	027	地球環境共創コース	027																									留学生政策	International student policy	人材の移動と循環	Human mobility and circulation 	多文化共創	Multicultural synergy	外国人受入れのための社会環境	Social environment for foreigners	http://www.tse.ens.titech.ac.jp/~yusato/	http://www.tse.ens.titech.ac.jp/~yusato/	key_rid=1000321776		ｻﾄｳ	ﾕﾘｺ		
+	融合理工学系	027	助教	004	スワンティープ	クルティプ	さ	すわんてぃーぷ	くるてぃぷ	4	Kultip	Suwanteep	融合理工学系	027	地球環境共創コース	027																																			key_t2r2Rid=CTT100662171		ｽﾜﾝﾃｨｰﾌﾟ	ｸﾙﾃｨﾌﾟ		
+22	融合理工学系	027	准教授	002	高木	泰士	た	たかぎ	ひろし	4	Hiroshi	Takagi	融合理工学系	027	地球環境共創コース	027	土木・環境工学系	026	土木工学コース	026																					沿岸域防災	Coastal disaster mitigation	国際開発	International development	海岸・海洋工学	Coastal and ocean engineering	気候変動影響	Climate change impact	http://www.ide.titech.ac.jp/~takagi/	http://www.ide.titech.ac.jp/~takagi/	key_rid=B000224566		ﾀｶｷﾞ	ﾋﾛｼ		
+48	融合理工学系	027	教授	001	高田	潤一	た	たかだ	じゅんいち	4	Jun-ichi 	Takada	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エンジニアリングデザインコース	002																					無線通信	Telecommunication	無線伝搬測定　電波応用センシング・計測	Radio propagation measurement	電磁界シミュレーション	Electromagnetic simulation	ICTと国際開発	International development engineering	http://www.ap.ide.titech.ac.jp/index-j.html	http://www.ap.ide.titech.ac.jp/index.html	key_rid=1000010459		ﾀｶﾀﾞ	ｼﾞｭﾝｲﾁ		
+24	融合理工学系	027	教授	001	高橋	邦夫	た	たかはし	くにお	4	Kunio	Takahashi	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エンジニアリングデザインコース	002	融合理工学系	027	エネルギーコース	001																	機械工学	Mechanical engineering	材料工学	Material science	接合工学	Welding and joining 	トライボロジー	Tribology	http://www.ide.titech.ac.jp/~KT-lab/	http://www.ide.titech.ac.jp/~KT-lab/	key_rid=1000015374		ﾀｶﾊｼ	ｸﾆｵ		
+50	融合理工学系	027	准教授	002	高橋	史武	た	たかはし	ふみたけ	4	Fumitake	Takahashi	融合理工学系	027	地球環境共創コース	027																									廃棄物リサイクル工学	Waste recycle	環境リスク評価	Waste management	感性工学	Environmental risk	デザインと人間行動	Human behaviors	http://www.tf.depe.titech.ac.jp/index.html	http://www.tf.depe.titech.ac.jp/index.html	key_rid=5000092541		ﾀｶﾊｼ	ﾌﾐﾀｹ		
+26	融合理工学系	027	教授	001	竹下	健二	た	たけした	けんじ	4	Kenji	Takeshita	融合理工学系	027	原子核工学コース	004	融合理工学系	027	地球環境共創コース	027																					核燃料サイクル工学	Nuclear fuel cycle engineering 	核燃料再処理	Nuclear fuel reprocessing 	環境プロセス工学	Environmental process engineering	分離工学	Separation engineering	http://www.nr.titech.ac.jp/~takeshita/index.html	http://www.nr.titech.ac.jp/~takeshita/index-e.html	key_rid=1000222093		ﾀｹｼﾀ	ｹﾝｼﾞ		
+	融合理工学系	027	特任講師	007	チェ	ソンキョン	た	ちぇ	そんきょん	1	Sunkyung	Choi	融合理工学系	027	地球環境共創コース	027																																			key_t2r2Rid=CTT100631375		ﾁｪ	ｿﾝｷｮﾝ		
+27	融合理工学系	027	助教	004	辻	潔	た	つじ	きよし	4	Kiyoshi	Tsuji	融合理工学系	027	地球環境共創コース	027																									環境理工学	Environmental science and technology 	レーザー分光	Laser spectroscopy							key_rid=1000203954		ﾂｼﾞ	ｷﾖｼ		
+29	融合理工学系	027	准教授	002	時松	宏治	た	ときまつ	こうじ	4	Koji	Tokimatsu	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エネルギーコース	001																					エネルギー技術評価	Energy technology assessment	エネルギーシステム分析	Energy systems analysis	ライフサイクルアセスメント	Lifecycle assessment	資源環境経済学	Environmental and resource economics	http://www.kt.depe.titech.ac.jp/	http://www.kt.depe.titech.ac.jp/	key_rid=5000087076		ﾄｷﾏﾂ	ｺｳｼﾞ		
+30	融合理工学系	027	教授	001	中崎	清彦	な	なかさき	きよひこ	3	Kiyohiko	Nakasaki	融合理工学系	027	地球環境共創コース	027																									生物化学工学	Biochemical engineering	環境生物工学	Environmental bioechnology							key_rid=1000251616		ﾅｶｻｷ	ｷﾖﾋｺ		
+	融合理工学系	027	特定准教授	010	中道	久美子	な	なかみち	くみこ	3	Kumiko	Nakamichi	融合理工学系	027	地球環境共創コース	027																									都市・地域計画	Urban and regional planning	交通計画	Transportation planning	環境計画	Environmental planning					key_rid=6000018351		ﾅｶﾐﾁ	ｸﾐｺ		
+32	融合理工学系	027	准教授	002	中村	恭志	な	なかむら	たかし	3	Takashi	Nakamura	融合理工学系	027	地球環境共創コース	027	土木・環境工学系	026	土木工学コース	026																					水環境水理学	Water environment	水理学	Hydraulics	数値流体力学	Computer fluid dynamics	計算物理学	Computational physics	http://fa.depe.titech.ac.jp/nakamura/nakamura/	http://fa.depe.titech.ac.jp/nakamura/nakamura/	key_rid=5000039834		ﾅｶﾑﾗ	ﾀｶｼ		
+33	融合理工学系	027	准教授	002	中村	隆志	な	なかむら	たかし	3	Takashi	Nakamura	融合理工学系	027	地球環境共創コース	027	土木・環境工学系	026	土木工学コース	026																					生態系モデリング	Ecosystem modeling	生物地球化学	Biogeochemistry	沿岸生態学	Coastal ecology			http://www.nakamulab.mei.titech.ac.jp/	http://www.nakamulab.mei.titech.ac.jp/	key_t2r2Rid=CTT100669192		ﾅｶﾑﾗ	ﾀｶｼ		
+36	融合理工学系	027	准教授	002	錦澤	滋雄	な	にしきざわ	しげお	3	Shigeo	Nishikizawa	融合理工学系	027	地球環境共創コース	027																									環境政策	Environmental policy	環境アセスメント	Environmental impact assessment	市民参加	Public participation	合意形成	Consensus building	http://www.nishikiz.depe.titech.ac.jp/index.html		key_rid=1000279360		ﾆｼｷｻﾞﾜ	ｼｹﾞｵ		
+37	融合理工学系	027	教授	001	野原	佳代子	な	のはら	かよこ	3	Kayoko	Nohara	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エンジニアリングデザインコース	002	機械系	015	エンジニアリングデザインコース	002																	翻訳学・言語学	Translation studies / Linguistics	科学技術コミュニケーション	Science communication	デザイン教育	Design education	サイエンス＆アート	Science & art	http://www.tse.ens.titech.ac.jp/~nohara/	http://www.tse.ens.titech.ac.jp/~nohara/en/	key_rid=1000314925		ﾉﾊﾗ	ｶﾖｺ		
+38	融合理工学系	027	教授	001	花岡	伸也	は	はなおか	しんや	2	Shinya	Hanaoka	融合理工学系	027	地球環境共創コース	027	土木・環境工学系	026	土木工学コース	026																					交通開発学	Transport development studies	航空政策	Air transport	交通ロジスティクス	Transport logistics	交通インフラマネジメント	Transport infrastructure management	http://www.ide.titech.ac.jp/~hanaoka/	http://www.ide.titech.ac.jp/~hanaoka/	key_t2r2Rid=CTT100512877		ﾊﾅｵｶ	ｼﾝﾔ		
+39	融合理工学系	027	助教	004	はばき	広顕	は	はばき	ひろあき	2	Hiroaki	Habaki	融合理工学系	027	地球環境共創コース	027																									化学工学	Chemical engineering	分理工学	Separation process							key_rid=1000279216		ﾊﾊﾞｷ	ﾋﾛｱｷ		
+79	融合理工学系	027	准教授	002	バルケズ	アルビンクリスタファーガラン	は	ばるけず	あるびんくりすたふぁーがらん	5	Alvin Christopher Galang 	Varquez	融合理工学系	027	地球環境共創コース	027																									グローバル都市気象学	Global urban dlimatology	街区レベル気候変動	Urban-scale climate change	数値気象予報	Numerical weather prediction	GISベースのデータ構築	GIS-based dataset construction	https://www.tse.ens.titech.ac.jp/~varquez/	https://www.tse.ens.titech.ac.jp/~varquez/	key_rid=R000006960		ﾊﾞﾙｹｽﾞ	ｱﾙﾋﾞﾝｸﾘｽﾀﾌｧｰｶﾞﾗﾝ		
+	融合理工学系	027	特定准教授	010	トリアワン	ファリド	た	とりあわん	ふぁりど	4	Farid	Triawan	融合理工学系	027	地球環境共創コース	027																																			key_t2r2Rid=CTT100517638		ﾄﾘｱﾜﾝ	ﾌｧﾘﾄﾞ		
+42	融合理工学系	027	助教	004	ヘムタビー	パソムポーン	は	へむたびー	ぱそむぽーん	2	Pasomphone	Hemthavy 	融合理工学系	027	地球環境共創コース	027																									地中レーダによる遺跡探査										key_rid=5000093251		ﾍﾑﾀﾋﾞｰ	ﾊﾟｿﾑﾎﾟｰﾝ		
+43	融合理工学系	027	准教授	002	ホープ	トム	は	ほーぷ	とむ	2	Tom	Hope	融合理工学系	027	地球環境共創コース	027	融合理工学系	027	エンジニアリングデザインコース	002																					社会学	Sociology	ヒューマンコンピュータインタラクション	Human-computer interaction	質的研究法	Qualitative research methodologies	エスノメソドロジー	Ethnomethodology	http://labhope.com/	http://labhope.com/	key_rid=6000021771		ﾎｰﾌﾟ	ﾄﾑ		
+44	融合理工学系	027	特任教授	005	松川	圭輔	ま	まつかわ	けいすけ	3	Keisuke	Matsukawa	融合理工学系	027	地球環境共創コース	027																																			key_t2r2Rid=CTT100515614		ﾏﾂｶﾜ	ｹｲｽｹ		
+91	融合理工学系	027	特任講師	007	アンドリュース	イーデン マリキット	あ	あんどりゅーす	いーでん まりきっと	1	Eden Mariquit	Andrews	融合理工学系	027	地球環境共創コース	027																									光触媒	Photocatalysis	TiO2　薄膜	TiO2 thin films					http://www.ide.titech.ac.jp/~hinode/home_jp.html	http://www.ide.titech.ac.jp/~hinode/home_eng.html	key_t2r2Rid=CTT100637283		ｱﾝﾄﾞﾘｭｰｽ	ｲｰﾃﾞﾝ ﾏﾘｷｯﾄ		
+45	融合理工学系	027	教授	001	村山	武彦	ま	むらやま	たけひこ	3	Takehiko	Murayama	融合理工学系	027	地球環境共創コース	027																									環境計画・政策	Environmental policy & Planning	リスク管理	Risk management	コミュニケーション・合意形成	"Communication, Consensus building"	環境アセスメント	Impact assessment	http://www.tm.depe.titech.ac.jp/index.html	http://www.tm.depe.titech.ac.jp/wordpress/en/	key_rid=1000015581		ﾑﾗﾔﾏ	ﾀｹﾋｺ		
+47	融合理工学系	027	教授	001	山口	しのぶ	や	やまぐち	しのぶ	5	Shinobu	Yamaguchi	融合理工学系	027	地球環境共創コース	027																									国際開発		ICTと教育		世界遺産保存と地域開発						key_rid=5000039869		ﾔﾏｸﾞﾁ	ｼﾉﾌﾞ		
+48	融合理工学系	027	准教授	002	山下	幸彦	や	やました	ゆきひこ	5	Yukihiko	Yamashita	融合理工学系	027	地球環境共創コース	027																									パターン認識	Pattern recognition	機械学習	Machine learning	画像処理・符号化	Image processing and coding	国際開発のための情報システム	Information system for internatioal development	http://www.ide.titech.ac.jp/~yylab/ja/	http://www.ide.titech.ac.jp/~yylab/	key_rid=1000015523		ﾔﾏｼﾀ	ﾕｷﾋｺ		
+51	融合理工学系	027	准教授	002	吉村	千洋	や	よしむら	ちひろ	5	Chihiro	Yoshimura	土木・環境工学系	026	土木工学コース	026	融合理工学系	027	地球環境共創コース	027																					水域生態系と水環境管理	Aquatic ecosystem and management of water environment	水質のモニタリングとモデル化	Water quality monitoring and modeling	水処理技術	Water treatment technology	グリーンインフラ	Green infrastructure	https://sites.google.com/site/yoshimurachihirojp/	https://sites.google.com/view/yoshimurachihiro02/home	key_rid=5000091205		ﾖｼﾑﾗ	ﾁﾋﾛ		
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
