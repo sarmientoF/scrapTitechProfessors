@@ -1,1 +1,1971 @@
-{"data": [{"index": 0, "attributes": {"urls": ["http://www.org-synth.chem.sci.titech.ac.jp/suzukilab/", "http://www.org-synth.chem.sci.titech.ac.jp/suzukilab/?page_id=31"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u5408\u6210\u5316\u5b66", "code": "Synthetic organic chemistry"}, {"name": "\u5929\u7136\u7269\u5408\u6210", "code": "Natural product synthesis"}, {"name": "\u65b0\u898f\u53cd\u5fdc\u958b\u767a", "code": "Development of new synthetic method"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u5b89\u85e4", "firstName": "\u5409\u52c7", "category": "\u3042", "lastNameHiragana": "\u3042\u3093\u3069\u3046", "firstNameHiragana": "\u3088\u3057\u304a", "categoryNumber": "1", "firstNameEnglish": "Yoshio", "lastNameEnglish": "Ando", "id": "key_rid=5000085816", "lastNameKatakana": "\uff71\uff9d\uff84\uff9e\uff73", "firstNameKatakana": "\uff96\uff7c\uff75"}}, {"index": 1, "attributes": {"urls": ["http://www.csd.res.titech.ac.jp/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5206\u5b50\u5206\u5149\u5b66", "code": "Molecular spectroscopy"}, {"name": "\u751f\u4f53\u5206\u5b50\u306e\u6c17\u76f8\u5206\u5149", "code": "Gas phase spectroscopy of biomolecules"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u77f3\u5185", "firstName": "\u4fca\u4e00", "category": "\u3042", "lastNameHiragana": "\u3044\u3057\u3046\u3061", "firstNameHiragana": "\u3057\u3085\u3093\u3044\u3061", "categoryNumber": "2", "firstNameEnglish": "Shun-ichi", "lastNameEnglish": "Ishiuchi", "id": "key_rid=5000085864", "lastNameKatakana": "\uff72\uff7c\uff73\uff81", "firstNameKatakana": "\uff7c\uff6d\uff9d\uff72\uff81"}}, {"index": 2, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~kawaguchi/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u932f\u4f53\u5316\u5b66", "code": "Coordination chemistry"}, {"name": "\u6709\u6a5f\u91d1\u5c5e\u5316\u5b66", "code": "Organometallic chemistry"}, {"name": "\u5178\u578b\u5143\u7d20\u5316\u5b66", "code": "Main group chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u77f3\u7530", "firstName": "\u8c4a", "category": "\u3042", "lastNameHiragana": "\u3044\u3057\u3060", "firstNameHiragana": "\u3086\u305f\u304b", "categoryNumber": "2", "firstNameEnglish": "Yutaka", "lastNameEnglish": "Ishida", "id": "key_rid=1000370349", "lastNameKatakana": "\uff72\uff7c\uff80\uff9e", "firstNameKatakana": "\uff95\uff80\uff76"}}, {"index": 3, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~ishitani/index.html", "http://www.chemistry.titech.ac.jp/~ishitani/en/index_en.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5149\u53cd\u5fdc\u5316\u5b66", "code": "Photochemical reaction"}, {"name": "\u91d1\u5c5e\u932f\u4f53\u306e\u5149\u6a5f\u80fd", "code": "Photochemistry of metal complexes "}, {"name": "\u5149\u89e6\u5a92", "code": "Photocatalysts"}, {"name": "\u4eba\u5de5\u5149\u5408\u6210", "code": "Artificial photosynthesis"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u77f3\u8c37", "firstName": "\u6cbb", "category": "\u3042", "lastNameHiragana": "\u3044\u3057\u305f\u306b", "firstNameHiragana": "\u304a\u3055\u3080", "categoryNumber": "2", "firstNameEnglish": "Osamu", "lastNameEnglish": "Ishitani", "id": "key_rid=5000039835", "lastNameKatakana": "\uff72\uff7c\uff80\uff86", "firstNameKatakana": "\uff75\uff7b\uff91"}}, {"index": 4, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~iwasawa/index.html", "http://www.chemistry.titech.ac.jp/~iwasawa/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u6709\u6a5f\u5408\u6210\u5316\u5b66", "code": "Synthetic organic chemistry"}, {"name": "\u6709\u6a5f\u91d1\u5c5e\u5316\u5b66", "code": "Organometallic chemistry"}, {"name": "\u6709\u6a5f\u53cd\u5fdc\u5316\u5b66", "code": "Organic reactions"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u5ca9\u6fa4", "firstName": "\u4f38\u6cbb", "category": "\u3042", "lastNameHiragana": "\u3044\u308f\u3055\u308f", "firstNameHiragana": "\u306e\u3076\u306f\u308b", "categoryNumber": "2", "firstNameEnglish": "Nobuharu", "lastNameEnglish": "Iwasawa", "id": "key_rid=1000279016", "lastNameKatakana": "\uff72\uff9c\uff7b\uff9c", "firstNameKatakana": "\uff89\uff8c\uff9e\uff8a\uff99"}}, {"index": 5, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~uekusa/", "http://www.cms.titech.ac.jp/~uekusa/"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u7d50\u6676\u5316\u5b66", "code": "Organic crystal chemistry"}, {"name": "\u69cb\u9020\u5316\u5b66", "code": "Structural chemistry"}, {"name": "\u6a5f\u80fd\u6027\u6750\u6599\u79d1\u5b66", "code": "Functional materials science"}, {"name": "\u7269\u7406\u85ac\u5264\u5b66", "code": "Physical pharmacy"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u690d\u8349", "firstName": "\u79c0\u88d5", "category": "\u3042", "lastNameHiragana": "\u3046\u3048\u304f\u3055", "firstNameHiragana": "\u3072\u3067\u3072\u308d", "categoryNumber": "5", "firstNameEnglish": "Hidehiro", "lastNameEnglish": "Uekusa", "id": "key_rid=1000275595", "lastNameKatakana": "\uff73\uff74\uff78\uff7b", "firstNameKatakana": "\uff8b\uff83\uff9e\uff8b\uff9b"}}, {"index": 6, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~eguchi/index.html", "http://www.cms.titech.ac.jp/~eguchi/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5929\u7136\u7269\u6709\u6a5f\u5316\u5b66", "code": "Natural product chemistry"}, {"name": "\u751f\u7269\u6709\u6a5f\u5316\u5b66", "code": "Bioorganic chemistry"}, {"name": "\u751f\u5316\u5b66", "code": "Biochemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u6c5f\u53e3", "firstName": "\u6b63", "category": "\u3042", "lastNameHiragana": "\u3048\u3050\u3061", "firstNameHiragana": "\u305f\u3060\u3057", "categoryNumber": "1", "firstNameEnglish": "Tadashi", "lastNameEnglish": "Eguchi", "id": "key_rid=1000015915", "lastNameKatakana": "\uff74\uff78\uff9e\uff81", "firstNameKatakana": "\uff80\uff80\uff9e\uff7c"}}, {"index": 7, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~ohshima/index.html", "http://www.chemistry.titech.ac.jp/~ohshima/index_e.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u7269\u7406\u5316\u5b66", "code": "Physical chemistry"}, {"name": "\u5206\u5b50\u5206\u5149\u5b66", "code": "Molecular spectroscopy"}, {"name": "\u30ec\u30fc\u30b6\u30fc\u79d1\u5b66", "code": "Laser science"}, {"name": "\u30d5\u30a7\u30e0\u30c8\u79d2\u5316\u5b66", "code": "Femto-chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u5927\u5cf6", "firstName": "\u5eb7\u88d5", "category": "\u3042", "lastNameHiragana": "\u304a\u304a\u3057\u307e", "firstNameHiragana": "\u3084\u3059\u3072\u308d", "categoryNumber": "3", "firstNameEnglish": "Yasuhiro", "lastNameEnglish": "Ohshima", "id": "key_rid=1000011637", "lastNameKatakana": "\uff75\uff75\uff7c\uff8f", "firstNameKatakana": "\uff94\uff7d\uff8b\uff9b"}}, {"index": 8, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~kawano/", "http://www.chemistry.titech.ac.jp/~kawano/index-e.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u5927\u6d25", "firstName": "\u535a\u7fa9", "category": "\u3042", "lastNameHiragana": "\u304a\u304a\u3064", "firstNameHiragana": "\u3072\u308d\u3088\u3057", "categoryNumber": "3", "firstNameEnglish": "Hiroyoshi", "lastNameEnglish": "Ohtsu", "id": "key_t2r2Rid=CTT100703967", "lastNameKatakana": "\uff75\uff75\uff82", "firstNameKatakana": "\uff8b\uff9b\uff96\uff7c"}}, {"index": 9, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u91d1\u5c5e\u932f\u4f53\u306e\u5149\u5316\u5b66", "code": "Photo-chemistry of metal-complex "}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u5927\u585a", "firstName": "\u62d3\u6d0b", "category": "\u3042", "lastNameHiragana": "\u304a\u304a\u3064\u304b", "firstNameHiragana": "\u305f\u304f\u3072\u308d", "categoryNumber": "3", "firstNameEnglish": "Takuhiro", "lastNameEnglish": "Otsuka", "id": "key_rid=1000275592", "lastNameKatakana": "\uff75\uff75\uff82\uff76", "firstNameKatakana": "\uff80\uff78\uff8b\uff9b"}}, {"index": 10, "attributes": {"urls": ["http://www.org-synth.chem.sci.titech.ac.jp/suzukilab/", "http://www.org-synth.chem.sci.titech.ac.jp/suzukilab/?page_id=31"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u5316\u5b66", "code": "Organic chemistry"}, {"name": "\u6709\u6a5f\u5408\u6210\u5316\u5b66", "code": "Organic synthesis"}, {"name": "\u5929\u7136\u7269\u5408\u6210", "code": "Natural product synthesis"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u5927\u68ee", "firstName": "\u5efa", "category": "\u3042", "lastNameHiragana": "\u304a\u304a\u3082\u308a", "firstNameHiragana": "\u3051\u3093", "categoryNumber": "3", "firstNameEnglish": "Ken", "lastNameEnglish": "Ohmori", "id": "key_rid=1000275609", "lastNameKatakana": "\uff75\uff75\uff93\uff98", "firstNameKatakana": "\uff79\uff9d"}}, {"index": 11, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~okada/", "http://www.chemistry.titech.ac.jp/english/chemistry/s_okada.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u5206\u6790\u5316\u5b66", "code": "Analytical chemistry"}, {"name": "\u6eb6\u6db2\u5316\u5b66", "code": "Solution chemistry"}, {"name": "\u754c\u9762\u5316\u5b66", "code": "Interfacial chemistry"}, {"name": "\u30de\u30a4\u30af\u30ed\u30fb\u30ca\u30ce\u5316\u5b66", "code": "Micro/Nano chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u5ca1\u7530", "firstName": "\u54f2\u7537", "category": "\u3042", "lastNameHiragana": "\u304a\u304b\u3060", "firstNameHiragana": "\u3066\u3064\u304a", "categoryNumber": "3", "firstNameEnglish": "Tetsuo", "lastNameEnglish": "Okada", "id": "key_rid=1000022856", "lastNameKatakana": "\uff75\uff76\uff80\uff9e", "firstNameKatakana": "\uff83\uff82\uff75"}}, {"index": 12, "attributes": {"urls": ["http://www.pipt.sci.titech.ac.jp/", "http://www.pipt.sci.titech.ac.jp/en/"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u56fa\u4f53\u5316\u5b66", "code": "Sokid state chemistry"}, {"name": "\u56fa\u4f53\u306e\u5149\u7269\u6027", "code": "Optical properties in solids"}, {"name": "\u8d85\u9ad8\u901f\u5206\u5149", "code": "Ultrafast spectroscopy"}, {"name": "\u9178\u5316\u7269\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30af\u30b9", "code": "Oxide electronics"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u6c96\u672c", "firstName": "\u6d0b\u4e00", "category": "\u3042", "lastNameHiragana": "\u304a\u304d\u3082\u3068", "firstNameHiragana": "\u3088\u3046\u3044\u3061", "categoryNumber": "3", "firstNameEnglish": "Yoichi", "lastNameEnglish": "Okimoto", "id": "key_rid=5000087480", "lastNameKatakana": "\uff75\uff77\uff93\uff84", "firstNameKatakana": "\uff96\uff73\uff72\uff81"}}, {"index": 13, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u8868\u9762\u79d1\u5b66", "code": "Surface science"}, {"name": "\u56fa\u4f53\u8868\u9762\u306e\u7269\u7406\u5316\u5b66", "code": "Physical chemistry of solid surfaces"}, {"name": "\u9178\u5316\u7269\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30af\u30b9", "code": "Oxide electronics"}, {"name": "\u8868\u9762\u754c\u9762\u306e\u5316\u5b66\u72b6\u614b\u5206\u6790", "code": "Chemical state analysis of surfaces and interfaces"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u5c0f\u6fa4", "firstName": "\u5065\u4e00", "category": "\u3042", "lastNameHiragana": "\u304a\u3056\u308f", "firstNameHiragana": "\u3051\u3093\u3044\u3061", "categoryNumber": "3", "firstNameEnglish": "Kenichi", "lastNameEnglish": "Ozawa", "id": "key_rid=1000203970", "lastNameKatakana": "\uff75\uff7b\uff9e\uff9c", "firstNameKatakana": "\uff79\uff9d\uff72\uff81"}}, {"index": 14, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~goto/index.html", "http://www.chemistry.titech.ac.jp/~goto/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}, {"name": "\u69cb\u9020\u6709\u6a5f\u5316\u5b66", "code": "Structural organic chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u5c0f\u91ce", "firstName": "\u516c\u8f14", "category": "\u3042", "lastNameHiragana": "\u304a\u306e", "firstNameHiragana": "\u3053\u3046\u3059\u3051", "categoryNumber": "3", "firstNameEnglish": "Kosuke", "lastNameEnglish": "Ono", "id": "key_rid=6000023119", "lastNameKatakana": "\uff75\uff89", "firstNameKatakana": "\uff7a\uff73\uff7d\uff79"}}, {"index": 15, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u7269\u7406\u5316\u5b66", "code": "Physical chemistry"}, {"name": "\u5358\u5206\u5b50\u79d1\u5b66", "code": "Single molecule science"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u91d1\u5b50", "firstName": "\u54f2", "category": "\u304b", "lastNameHiragana": "\u304b\u306d\u3053", "firstNameHiragana": "\u3055\u3068\u3057", "categoryNumber": "3", "firstNameEnglish": "Satoshi", "lastNameEnglish": "Kaneko", "id": "key_rid=B000300053", "lastNameKatakana": "\uff76\uff88\uff7a", "firstNameKatakana": "\uff7b\uff84\uff7c"}}, {"index": 16, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u932f\u4f53\u5316\u5b66", "code": "Coordination chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u5ddd\u53e3", "firstName": "\u535a\u4e4b", "category": "\u304b", "lastNameHiragana": "\u304b\u308f\u3050\u3061", "firstNameHiragana": "\u3072\u308d\u3086\u304d", "categoryNumber": "3", "firstNameEnglish": "Hiroyuki", "lastNameEnglish": "Kawaguchi", "id": "key_rid=1000182377", "lastNameKatakana": "\uff76\uff9c\uff78\uff9e\uff81", "firstNameKatakana": "\uff8b\uff9b\uff95\uff77"}}, {"index": 17, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~kawano/", "http://www.chemistry.titech.ac.jp/~kawano/index-e.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u932f\u4f53\u5316\u5b66", "code": "Coordination chemistry"}, {"name": "\u7121\u6a5f\u5316\u5b66", "code": "Inorganic chemistry"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}, {"name": "\u7d50\u6676\u5316\u5b66", "code": "Chemical crystallography"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u6cb3\u91ce", "firstName": "\u6b63\u898f", "category": "\u304b", "lastNameHiragana": "\u304b\u308f\u306e", "firstNameHiragana": "\u307e\u3055\u304d", "categoryNumber": "3", "firstNameEnglish": "Masaki", "lastNameEnglish": "Kawano", "id": "key_t2r2Rid=CTT100697198", "lastNameKatakana": "\uff76\uff9c\uff89", "firstNameKatakana": "\uff8f\uff7b\uff77"}}, {"index": 18, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~kitajima/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u539f\u5b50\u30fb\u5206\u5b50\u885d\u7a81", "code": "Atomic and molecular collision"}, {"name": "\u914d\u5411\u5206\u5b50\uff0d\u96fb\u5b50\u885d\u7a81", "code": "Molecular frame electron scattering"}, {"name": "\u96fb\u5b50Cold Collision", "code": "Cold electron collision"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u5317\u5cf6", "firstName": "\u660c\u53f2", "category": "\u304b", "lastNameHiragana": "\u304d\u305f\u3058\u307e", "firstNameHiragana": "\u307e\u3055\u3057", "categoryNumber": "3", "firstNameEnglish": "Masashi", "lastNameEnglish": "Kitajima", "id": "key_rid=1000293761", "lastNameKatakana": "\uff77\uff80\uff7c\uff9e\uff8f", "firstNameKatakana": "\uff8f\uff7b\uff7c"}}, {"index": 19, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~eguchi/", "http://www.cms.titech.ac.jp/~eguchi/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5929\u7136\u7269\u5316\u5b66", "code": "Natural product chemistry"}, {"name": "\u751f\u7269\u6709\u6a5f\u5316\u5b66", "code": "Bioorganic chemistry"}, {"name": "\u751f\u5316\u5b66", "code": "Biochemistry"}, {"name": "\u9175\u7d20\u5b66", "code": "Enzymology"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u5de5\u85e4", "firstName": "\u53f2\u8cb4", "category": "\u304b", "lastNameHiragana": "\u304f\u3069\u3046", "firstNameHiragana": "\u3075\u307f\u305f\u304b", "categoryNumber": "3", "firstNameEnglish": "Fumitaka", "lastNameEnglish": "Kudo", "id": "key_rid=6000024103", "lastNameKatakana": "\uff78\uff84\uff9e\uff73", "firstNameKatakana": "\uff8c\uff90\uff80\uff76"}}, {"index": 20, "attributes": {"urls": ["https://www.goto-ono-group.com/", "https://www.goto-ono-group.com/"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u5316\u5b66", "code": "Organic chemistry"}, {"name": "\u5143\u7d20\u5316\u5b66", "code": "Element chemistry"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u936c\u91ce", "firstName": "\u54f2", "category": "\u304b", "lastNameHiragana": "\u304f\u308f\u306e", "firstNameHiragana": "\u3055\u3068\u308b", "categoryNumber": "3", "firstNameEnglish": "Satoru", "lastNameEnglish": "Kuwano", "lastNameKatakana": "\uff78\uff9c\uff89", "firstNameKatakana": "\uff7b\uff84\uff99"}}, {"index": 21, "attributes": {"urls": ["http://www.pipt.sci.titech.ac.jp/", "http://www.pipt.sci.titech.ac.jp/en/"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5149\u7269\u6027", "code": "Optical properties of solids"}, {"name": "\u8d85\u9ad8\u901f\u30ec\u30fc\u30b6\u30fc", "code": "Ultrashort pulsed laser"}, {"name": "\u56fa\u4f53\u7269\u7406", "code": "Solid state physics"}, {"name": "\u7269\u7406\u5316\u5b66", "code": "Chemical physics"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u8170\u539f", "firstName": "\u4f38\u4e5f", "category": "\u304b", "lastNameHiragana": "\u3053\u3057\u306f\u3089", "firstNameHiragana": "\u3057\u3093\u3084", "categoryNumber": "3", "firstNameEnglish": "Shinya", "lastNameEnglish": "Koshihara", "id": "key_rid=1000275596", "lastNameKatakana": "\uff7a\uff7c\uff8a\uff97", "firstNameKatakana": "\uff7c\uff9d\uff94"}}, {"index": 22, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~goto/index.html", "http://www.chemistry.titech.ac.jp/~goto/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u5316\u5b66", "code": "Organic chemistry"}, {"name": "\u5143\u7d20\u5316\u5b66", "code": "Element chemistry"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}, {"name": "\u751f\u4f53\u6a5f\u80fd\u95a2\u9023\u5316\u5b66", "code": "Biofunctional chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u5f8c\u85e4", "firstName": "\u656c", "category": "\u304b", "lastNameHiragana": "\u3054\u3068\u3046", "firstNameHiragana": "\u3051\u3044", "categoryNumber": "2", "firstNameEnglish": "Kei", "lastNameEnglish": "Goto", "id": "key_rid=1000185178", "lastNameKatakana": "\uff7a\uff9e\uff84\uff73", "firstNameKatakana": "\uff79\uff72"}}, {"index": 23, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~komatsu/index.htm", "http://www.chemistry.titech.ac.jp/~komatsu/en/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u89e6\u5a92", "code": "Catalyst"}, {"name": "\u91d1\u5c5e\u9593\u5316\u5408\u7269", "code": "Intermetallic compound"}, {"name": "\u5408\u91d1", "code": "Alloy"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30ad\u30e3\u30ea\u30a2", "code": "Energy carrier"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u5c0f\u677e", "firstName": "\u9686\u4e4b", "category": "\u304b", "lastNameHiragana": "\u3053\u307e\u3064", "firstNameHiragana": "\u305f\u304b\u3086\u304d", "categoryNumber": "3", "firstNameEnglish": "Takayuki", "lastNameEnglish": "Komatsu", "id": "key_rid=1000015932", "lastNameKatakana": "\uff7a\uff8f\uff82", "firstNameKatakana": "\uff80\uff76\uff95\uff77"}}, {"index": 24, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~uekusa/"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "X\u7dda\u7d50\u6676\u5316\u5b66", "code": "X-ray crystal chemistry"}, {"name": "\u6709\u6a5f\u7d50\u6676\u5316\u5b66", "code": "Organic crystal chemistry"}, {"name": "\u6709\u6a5f\u56fa\u4f53\u5149\u5316\u5b66", "code": "Organic solid photochemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u95a2\u6839", "firstName": "\u3042\u304d\u5b50", "category": "\u3055", "lastNameHiragana": "\u305b\u304d\u306d", "firstNameHiragana": "\u3042\u304d\u3053", "categoryNumber": "4", "firstNameEnglish": "Akiko", "lastNameEnglish": "Sekine", "id": "key_rid=1000203975", "lastNameKatakana": "\uff7e\uff77\uff88", "firstNameKatakana": "\uff71\uff77\uff7a"}}, {"index": 25, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~iwasawa/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u91d1\u5c5e\u5316\u5b66", "code": "Organometallic chemistry"}, {"name": "\u5747\u4e00\u7cfb\u89e6\u5a92\u53cd\u5fdc", "code": "Homogeneous catalysis"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u9ad9\u6a4b", "firstName": "\u8b1b\u5e73", "category": "\u305f", "lastNameHiragana": "\u305f\u304b\u306f\u3057", "firstNameHiragana": "\u3053\u3046\u3078\u3044", "categoryNumber": "4", "firstNameEnglish": "Kohei", "lastNameEnglish": "Takahashi", "id": "key_t2r2Rid=CTT100686078", "lastNameKatakana": "\uff80\uff76\uff8a\uff7c", "firstNameKatakana": "\uff7a\uff73\uff8d\uff72"}}, {"index": 26, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~iwasawa/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u91d1\u5c5e\u5316\u5b66", "code": "Organometallic chemistry"}, {"name": "\u6709\u6a5f\u5408\u6210\u5316\u5b66", "code": "Synthetic organic chemistry"}, {"name": "\u6709\u6a5f\u5316\u5b66", "code": "Organic chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u9df9\u8c37", "firstName": "\u7d62", "category": "\u305f", "lastNameHiragana": "\u305f\u304b\u3084", "firstNameHiragana": "\u3058\u3085\u3093", "categoryNumber": "4", "firstNameEnglish": "Jun", "lastNameEnglish": "Takaya", "id": "key_rid=6000003419", "lastNameKatakana": "\uff80\uff76\uff94", "firstNameKatakana": "\uff7c\uff9e\uff6d\uff9d"}}, {"index": 27, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~komatsu/index.htm", "http://www.chemistry.titech.ac.jp/~komatsu/en/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u89e6\u5a92\u5316\u5b66", "code": "Catalytic chemistry"}, {"name": "\u5149\u96fb\u6c17\u5316\u5b66", "code": "Photoelectrochemistry"}, {"name": "\u91d1\u5c5e\u9593\u5316\u5408\u7269", "code": "Intermetallic compound"}, {"name": "\u5408\u91d1", "code": "Alloy"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u9ad9\u5c71", "firstName": "\u5927\u9451", "category": "\u305f", "lastNameHiragana": "\u305f\u304b\u3084\u307e", "firstNameHiragana": "\u3068\u3082\u3042\u304d", "categoryNumber": "4", "firstNameEnglish": "Tomoaki", "lastNameEnglish": "Takayama", "id": "key_t2r2Rid=CTT100740875", "lastNameKatakana": "\uff80\uff76\uff94\uff8f", "firstNameKatakana": "\uff84\uff93\uff71\uff77"}}, {"index": 28, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~toyota/index.html", "http://www.cms.titech.ac.jp/~toyota/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u7269\u7406\u6709\u6a5f\u5316\u5b66", "code": "Physical organic chemistry"}, {"name": "\u69cb\u9020\u6709\u6a5f\u5316\u5b66", "code": "Structural organic chemistry"}, {"name": "\u6709\u6a5f\u5178\u578b\u5143\u7d20\u5316\u5b66", "code": "Organoelement chemisrty"}, {"name": "\u82b3\u9999\u65cf\u5316\u5408\u7269", "code": "Aromatic compounds"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u9db4\u5dfb", "firstName": "\u82f1\u6cbb", "category": "\u305f", "lastNameHiragana": "\u3064\u308b\u307e\u304d", "firstNameHiragana": "\u3048\u3044\u3058", "categoryNumber": "4", "firstNameEnglish": "Eiji", "lastNameEnglish": "Tsurumaki", "id": "key_t2r2Rid=CTT100699459", "lastNameKatakana": "\uff82\uff99\uff8f\uff77", "firstNameKatakana": "\uff74\uff72\uff7c\uff9e"}}, {"index": 29, "attributes": {"urls": ["http://www.ksvo.titech.ac.jp/~terada/index.htm"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5730\u7403\u5316\u5b66", "code": "Geochemistory"}, {"name": "\u706b\u5c71\u7269\u7406\u5b66", "code": "Volcano physics"}, {"name": "\u5730\u5b66", "code": "Earth sciense"}, {"name": "\u9632\u707d", "code": "Disaster prevention"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u8b1b\u5e2b", "jobCode": "003", "lastName": "\u5bfa\u7530", "firstName": "\u6681\u5f66", "category": "\u305f", "lastNameHiragana": "\u3066\u3089\u3060", "firstNameHiragana": "\u3042\u304d\u3072\u3053", "categoryNumber": "4", "firstNameEnglish": "Akihiko", "lastNameEnglish": "Terada", "id": "key_t2r2Rid=CTT100620162", "lastNameKatakana": "\uff83\uff97\uff80\uff9e", "firstNameKatakana": "\uff71\uff77\uff8b\uff7a"}}, {"index": 30, "attributes": {"urls": ["http://www.cms.titech.ac.jp/~toyota/", "http://www.cms.titech.ac.jp/labo09-e/tran_09_eng.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u69cb\u9020\u6709\u6a5f\u5316\u5b66", "code": "Structural organic chemistry"}, {"name": "\u7269\u7406\u6709\u6a5f\u5316\u5b66", "code": "Physical organic chemistry"}, {"name": "\u7acb\u4f53\u5316\u5b66", "code": "Stereochemistry"}, {"name": "\u6709\u6a5f\u5408\u6210", "code": "Organic synthesis"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u8c4a\u7530", "firstName": "\u771f\u53f8", "category": "\u305f", "lastNameHiragana": "\u3068\u3088\u305f", "firstNameHiragana": "\u3057\u3093\u3058", "categoryNumber": "4", "firstNameEnglish": "Shinji", "lastNameEnglish": "Toyota", "id": "key_rid=1000113855", "lastNameKatakana": "\uff84\uff96\uff80", "firstNameKatakana": "\uff7c\uff9d\uff7c\uff9e"}}, {"index": 31, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~iwasawa/index.html", "http://www.chemistry.titech.ac.jp/~iwasawa/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6709\u6a5f\u91d1\u5c5e\u5316\u5b66", "code": "Organometallic chemistry"}, {"name": "\u69cb\u9020\u6709\u6a5f\u5316\u5b66", "code": "Structural organic chemistry"}, {"name": "\u5149\u5316\u5b66", "code": "Photochemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u7279\u4efb\u52a9\u6559", "jobCode": "008", "lastName": "\u9ce5\u6d77", "firstName": "\u5c1a\u4e4b", "category": "\u305f", "lastNameHiragana": "\u3068\u308a\u3046\u307f", "firstNameHiragana": "\u306a\u304a\u3086\u304d", "categoryNumber": "4", "firstNameEnglish": "Naoyuki", "lastNameEnglish": "Toriumi", "id": "key_rid=B000315489", "lastNameKatakana": "\uff84\uff98\uff73\uff90", "firstNameKatakana": "\uff85\uff75\uff95\uff77"}}, {"index": 32, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~nishino/index.html", "http://www.chemistry.titech.ac.jp/~nishino/en/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u7269\u7406\u5316\u5b66", "code": "Physical chemistry"}, {"name": "\u5358\u5206\u5b50", "code": "Single molecule"}, {"name": "\u30d0\u30a4\u30aa\u5206\u6790", "code": "Bioanalysis"}, {"name": "\u5206\u5b50\u8a8d\u8b58", "code": "Molecular recognition"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u897f\u91ce", "firstName": "\u667a\u662d", "category": "\u306a", "lastNameHiragana": "\u306b\u3057\u306e", "firstNameHiragana": "\u3068\u3082\u3042\u304d", "categoryNumber": "3", "firstNameEnglish": "Tomoaki", "lastNameEnglish": "Nishino", "id": "key_t2r2Rid=CTT100691227", "lastNameKatakana": "\uff86\uff7c\uff89", "firstNameKatakana": "\uff84\uff93\uff71\uff77"}}, {"index": 33, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5730\u7403\u5316\u5b66", "code": "Geochemistry"}, {"name": "\u706b\u5c71\u5b66", "code": "Volcanology"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u6559\u6388", "jobCode": "001", "lastName": "\u91ce\u4e0a", "firstName": "\u5065\u6cbb", "category": "\u306a", "lastNameHiragana": "\u306e\u304c\u307f", "firstNameHiragana": "\u3051\u3093\u3058", "categoryNumber": "3", "firstNameEnglish": "Kenji", "lastNameEnglish": "Nogami", "id": "key_rid=1000275679", "lastNameKatakana": "\uff89\uff76\uff9e\uff90", "firstNameKatakana": "\uff79\uff9d\uff7c\uff9e"}}, {"index": 34, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~okada/"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u6eb6\u6db2\u5316\u5b66", "code": "Solution chemistry"}, {"name": "\u5206\u6790\u5316\u5b66", "code": "Analytical chemistry"}, {"name": "\uff38\u7dda\u5206\u6790", "code": "X-ray analysis"}, {"name": "XAFS", "code": "XAFS"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u539f\u7530", "firstName": "\u8aa0", "category": "\u306f", "lastNameHiragana": "\u306f\u3089\u3060", "firstNameHiragana": "\u307e\u3053\u3068", "categoryNumber": "2", "firstNameEnglish": "Makoto", "lastNameEnglish": "Harada", "id": "key_rid=1000279264", "lastNameKatakana": "\uff8a\uff97\uff80\uff9e", "firstNameKatakana": "\uff8f\uff7a\uff84"}}, {"index": 35, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~okada/index.html", "http://www.chemistry.titech.ac.jp/english/chemistry/s_okada.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5206\u6790\u5316\u5b66", "code": "Analytical chemistry"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}, {"name": "\u5149\u5316\u5b66", "code": "Photochemistry"}, {"name": "\u9ad8\u5206\u5b50\u5316\u5b66", "code": "Polymer chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u798f\u539f", "firstName": "\u5b66", "category": "\u306f", "lastNameHiragana": "\u3075\u304f\u306f\u3089", "firstNameHiragana": "\u304c\u304f", "categoryNumber": "2", "firstNameEnglish": "Gaku", "lastNameEnglish": "Fukuhara", "id": "key_rid=5000083571", "lastNameKatakana": "\uff8c\uff78\uff8a\uff97", "firstNameKatakana": "\uff76\uff9e\uff78"}}, {"index": 36, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u7279\u4efb\u51c6\u6559\u6388", "jobCode": "006", "lastName": "\u85e4\u4e95", "firstName": "\u614e\u592a\u90ce", "category": "\u306f", "lastNameHiragana": "\u3075\u3058\u3044", "firstNameHiragana": "\u3057\u3093\u305f\u308d\u3046", "categoryNumber": "2", "firstNameEnglish": "Shintaro", "lastNameEnglish": "Fujii", "id": "key_rid=5000040116", "lastNameKatakana": "\uff8c\uff7c\uff9e\uff72", "firstNameKatakana": "\uff7c\uff9d\uff80\uff9b\uff73"}}, {"index": 37, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~kouchi/index.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5206\u5b50\u306e\u591a\u96fb\u5b50\u52b1\u8d77\u72b6\u614b", "code": "Doubly excited states of molecules"}, {"name": "\u5149\u89e3\u96e2\u7247\u306e\u3082\u3064\u308c", "code": "Entanglement of photofragmentss"}, {"name": "\u96fb\u5b50\u885d\u7a81\u904e\u7a0b", "code": "Electron impact process"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u7a42\u5742", "firstName": "\u7db1\u4e00", "category": "\u306f", "lastNameHiragana": "\u307b\u3055\u304b", "firstNameHiragana": "\u3053\u3046\u3044\u3061", "categoryNumber": "2", "firstNameEnglish": "Kouichi", "lastNameEnglish": "Hosaka", "id": "key_rid=6000023118", "lastNameKatakana": "\uff8e\uff7b\uff76", "firstNameKatakana": "\uff7a\uff73\uff72\uff81"}}, {"index": 38, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~ishitani/member/kmaeda/Home.html", "http://www.chemistry.titech.ac.jp/~ishitani/member/kmaeda/Home.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30b3\u30fc\u30b9", "code": "001"}, {"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u5149\u89e6\u5a92", "code": "Photocatalyst"}, {"name": "\u4eba\u5de5\u5149\u5408\u6210", "code": "Artificial photosynthesis"}, {"name": "\u5149\u96fb\u6c17\u5316\u5b66", "code": "Photoelectrochemistry"}, {"name": "\u30ca\u30ce\u6750\u6599", "code": "Nanomaterials"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u524d\u7530", "firstName": "\u548c\u5f66", "category": "\u307e", "lastNameHiragana": "\u307e\u3048\u3060", "firstNameHiragana": "\u304b\u305a\u3072\u3053", "categoryNumber": "3", "firstNameEnglish": "Kazuhiko", "lastNameEnglish": "Maeda", "id": "key_rid=6000015609", "lastNameKatakana": "\uff8f\uff74\uff80\uff9e", "firstNameKatakana": "\uff76\uff7d\uff9e\uff8b\uff7a"}}, {"index": 39, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u7279\u4efb\u6559\u6388", "jobCode": "005", "lastName": "\u677e\u672c", "firstName": "\u9686\u4e5f", "category": "\u307e", "lastNameHiragana": "\u307e\u3064\u3082\u3068", "firstNameHiragana": "\u305f\u304b\u3084", "categoryNumber": "3", "firstNameEnglish": "Takaya", "lastNameEnglish": "Matsumoto", "id": "key_t2r2Rid=CTT100734011", "lastNameKatakana": "\uff8f\uff82\uff93\uff84", "firstNameKatakana": "\uff80\uff76\uff94"}}, {"index": 40, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~ohshima/index.html", "http://www.chemistry.titech.ac.jp/~ohshima/index_e.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u30ec\u30fc\u30b6\u30fc\u5316\u5b66", "code": "Laser chemistry"}, {"name": "\u8d85\u9ad8\u901f\u5316\u5b66", "code": "Ultrafast chemistry"}, {"name": "\u30af\u30e9\u30b9\u30bf\u30fc\u5316\u5b66", "code": "Cluster chemistry"}, {"name": "\u5316\u5b66\u53cd\u5fdc\u52d5\u529b\u5b66", "code": "Chemical reaction dynamics"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u6c34\u702c", "firstName": "\u8ce2\u592a", "category": "\u307e", "lastNameHiragana": "\u307f\u305a\u305b", "firstNameHiragana": "\u3051\u3093\u305f", "categoryNumber": "3", "firstNameEnglish": "Kenta", "lastNameEnglish": "Mizuse", "id": "key_t2r2Rid=CTT100683965", "lastNameKatakana": "\uff90\uff7d\uff9e\uff7e", "firstNameKatakana": "\uff79\uff9d\uff80"}}, {"index": 41, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u751f\u5316\u5b66", "code": "Biochemistry"}, {"name": "\u5929\u7136\u7269\u5316\u5b66", "code": "Natural product chemistry"}, {"name": "\u9175\u7d20\u5b66", "code": "Enzymology"}, {"name": "\u69cb\u9020\u751f\u7269\u5b66", "code": "Structural biology"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u5bae\u6c38", "firstName": "\u9855\u6b63", "category": "\u307e", "lastNameHiragana": "\u307f\u3084\u306a\u304c", "firstNameHiragana": "\u3042\u304d\u307e\u3055", "categoryNumber": "3", "firstNameEnglish": "Akimasa", "lastNameEnglish": "Miyanaga", "id": "key_rid=5000090599", "lastNameKatakana": "\uff90\uff94\uff85\uff76\uff9e", "firstNameKatakana": "\uff71\uff77\uff8f\uff7b"}}, {"index": 42, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~ohshima/", "http://www.chemistry.titech.ac.jp/~ohshima/index_e.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u7269\u7406\u5316\u5b66", "code": "Physical chemistry"}, {"name": "\u539f\u5b50\u5206\u5b50\u7269\u7406\u5b66", "code": "Atomic and molecular physics"}, {"name": "\u96fb\u5b50\u5206\u5149", "code": "Electron spectroscopy"}, {"name": "\u53cd\u5fdc\u52d5\u529b\u5b66", "code": "Reaction Dynamics"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u51c6\u6559\u6388", "jobCode": "002", "lastName": "\u5c71\ufa11", "firstName": "\u512a\u4e00", "category": "\u3084", "lastNameHiragana": "\u3084\u307e\u3056\u304d", "firstNameHiragana": "\u307e\u3055\u304b\u305a", "categoryNumber": "5", "firstNameEnglish": "Masakazu", "lastNameEnglish": "Yamazaki", "id": "key_rid=6000017666", "lastNameKatakana": "\uff94\uff8f\uff7b\uff9e\uff77", "firstNameKatakana": "\uff8f\uff7b\uff76\uff7d\uff9e"}}, {"index": 43, "attributes": {"urls": ["http://www.chemistry.titech.ac.jp/~toyota/index.html", "http://www.chemistry.titech.ac.jp/~toyota/index-en.html"], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}, {"name": "\u8d85\u5206\u5b50\u5316\u5b66", "code": "Supramolecular chemistry"}, {"name": "\u30ca\u30ce\u7a7a\u9593\u5316\u5b66", "code": "Nanospace chemistry"}, {"name": "\u932f\u4f53\u5316\u5b66", "code": "Coordination chemistry"}, {"name": "\u69cb\u9020\u6709\u6a5f\u5316\u5b66", "code": "Structural organic chemistry"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u52a9\u6559", "jobCode": "004", "lastName": "\u5c71\u79d1", "firstName": "\u96c5\u88d5", "category": "\u3084", "lastNameHiragana": "\u3084\u307e\u3057\u306a", "firstNameHiragana": "\u307e\u3055\u3072\u308d", "categoryNumber": "5", "firstNameEnglish": "Masahiro", "lastNameEnglish": "Yamashina", "id": "key_t2r2Rid=CTT100621951", "lastNameKatakana": "\uff94\uff8f\uff7c\uff85", "firstNameKatakana": "\uff8f\uff7b\uff8b\uff9b"}}, {"index": 44, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u7279\u4efb\u52a9\u6559", "jobCode": "008", "lastName": "\u30e6\u30fc\u30bd\u30d5", "firstName": "\u30d1\u30d9\u30eb", "category": "\u3084", "lastNameHiragana": "\u3086\u30fc\u305d\u3075", "firstNameHiragana": "\u3071\u3079\u308b", "categoryNumber": "5", "firstNameEnglish": "Pavel", "lastNameEnglish": "Usov", "lastNameKatakana": "\uff95\uff70\uff7f\uff8c", "firstNameKatakana": "\uff8a\uff9f\uff8d\uff9e\uff99"}}, {"index": 45, "attributes": {"urls": [], "selections": [{"name": "\u5316\u5b66\u7cfb", "code": "013"}, {"name": "\u5316\u5b66\u30b3\u30fc\u30b9", "code": "013"}], "siteName": "\u5316\u5b66\u7cfb", "code": "013", "job": "\u7279\u4efb\u51c6\u6559\u6388", "jobCode": "006", "lastName": "\u30e6\u30fc\u30cf\u30b9", "firstName": "\u30b2\u30eb\u30b2\u30ea", "category": "\u3084", "lastNameHiragana": "\u3086\u30fc\u306f\u3059", "firstNameHiragana": "\u3052\u308b\u3052\u308a", "categoryNumber": "2", "firstNameEnglish": "Juhasz", "lastNameEnglish": "Gergely", "id": "key_rid=5000025689", "lastNameKatakana": "\uff95\uff70\uff8a\uff7d", "firstNameKatakana": "\uff79\uff9e\uff99\uff79\uff9e\uff98"}}]}
+{
+  "data": [
+    {
+      "index": 0,
+      "attributes": {
+        "urls": [
+          "http://www.arch.titech.ac.jp/ikarashi_lab/",
+          "http://www.arch.titech.ac.jp/ikarashi_lab/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築構造",
+            "code": "Structural engineering"
+          },
+          {
+            "name": "鋼構造物の安定性評価",
+            "code": "Stability of steel structure"
+          },
+          {
+            "name": "薄鋼板構造形式の探求",
+            "code": "Thin walled steel structure"
+          },
+          {
+            "name": "鉄鋼系複合要素の開発",
+            "code": "Steel-based composite element"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "五十嵐",
+        "firstName": "規矩夫",
+        "category": "あ",
+        "lastNameHiragana": "いからし",
+        "firstNameHiragana": "きくお",
+        "categoryNumber": "2",
+        "firstNameEnglish": "Kikuo",
+        "lastNameEnglish": "Ikarashi",
+        "id": "key_rid=1000015561",
+        "lastNameKatakana": "ｲｶﾗｼ",
+        "firstNameKatakana": "ｷｸｵ"
+      }
+    },
+    {
+      "index": 1,
+      "attributes": {
+        "urls": [
+          "http://www.udprc.first.iir.titech.ac.jp/~kishikilab/index.html",
+          "http://www.udprc.first.iir.titech.ac.jp/~kishikilab/index.html"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "耐震工学",
+            "code": "Earthquake engineering"
+          },
+          {
+            "name": "残存耐震性能評価",
+            "code": "Evaluation of residual seismic performance"
+          },
+          {
+            "name": "耐震改修",
+            "code": "Seismic retrofit"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "石田",
+        "firstName": "孝徳",
+        "category": "あ",
+        "lastNameHiragana": "いしだ",
+        "firstNameHiragana": "たかのり",
+        "categoryNumber": "2",
+        "firstNameEnglish": "Takanori",
+        "lastNameEnglish": "Ishida",
+        "id": "key_rid=7000018134",
+        "lastNameKatakana": "ｲｼﾀﾞ",
+        "firstNameKatakana": "ﾀｶﾉﾘ"
+      }
+    },
+    {
+      "index": 2,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定教授",
+        "jobCode": "009",
+        "lastName": "上野",
+        "firstName": "武",
+        "category": "あ",
+        "lastNameHiragana": "うえの",
+        "firstNameHiragana": "たけし",
+        "categoryNumber": "5",
+        "firstNameEnglish": "Takeshi",
+        "lastNameEnglish": "Ueno",
+        "lastNameKatakana": "ｳｴﾉ",
+        "firstNameKatakana": "ﾀｹｼ"
+      }
+    },
+    {
+      "index": 3,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "住宅と健康",
+            "code": "Housing and health"
+          },
+          {
+            "name": "建築環境工学",
+            "code": "Built environmental engineering"
+          },
+          {
+            "name": "医学",
+            "code": "Medicine"
+          },
+          {
+            "name": "公衆衛生学",
+            "code": "Public health"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "海塩",
+        "firstName": "渉",
+        "category": "あ",
+        "lastNameHiragana": "うみしお",
+        "firstNameHiragana": "わたる",
+        "categoryNumber": "5",
+        "firstNameEnglish": "Wataru",
+        "lastNameEnglish": "Umishio",
+        "id": "key_rid=R000002248",
+        "lastNameKatakana": "ｳﾐｼｵ",
+        "firstNameKatakana": "ﾜﾀﾙ"
+      }
+    },
+    {
+      "index": 4,
+      "attributes": {
+        "urls": [
+          "http://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?q_researcher_content_number=CTT100518739",
+          "http://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=CTT100518739"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築計画",
+            "code": "Architectural Planning"
+          },
+          {
+            "name": "都市解析",
+            "code": "Urban Analysis"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "沖",
+        "firstName": "拓弥",
+        "category": "あ",
+        "lastNameHiragana": "おき",
+        "firstNameHiragana": "たくや",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Takuya",
+        "lastNameEnglish": "Oki",
+        "id": "key_t2r2Rid=CTT100518739",
+        "lastNameKatakana": "ｵｷ",
+        "firstNameKatakana": "ﾀｸﾔ"
+      }
+    },
+    {
+      "index": 5,
+      "attributes": {
+        "urls": [
+          "http://www.ok.enveng.titech.ac.jp",
+          "http://www.ok.enveng.titech.ac.jp"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "建築意匠",
+            "code": "Architectural design"
+          },
+          {
+            "name": "建築論",
+            "code": "Theory of architecture"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "奥山",
+        "firstName": "信一",
+        "category": "あ",
+        "lastNameHiragana": "おくやま",
+        "firstNameHiragana": "しんいち",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Shin-chi ",
+        "lastNameEnglish": "Okuyama",
+        "id": "key_rid=1000015626",
+        "lastNameKatakana": "ｵｸﾔﾏ",
+        "firstNameKatakana": "ｼﾝｲﾁ"
+      }
+    },
+    {
+      "index": 6,
+      "attributes": {
+        "urls": [
+          "http://www.os.mei.titech.ac.jp/",
+          "http://www.os.mei.titech.ac.jp/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "建築計画",
+            "code": "Architectural planning"
+          },
+          {
+            "name": "都市解析",
+            "code": "Urban analysis and planning"
+          },
+          {
+            "name": "地域防災計画",
+            "code": "Disaster mitigation planning"
+          },
+          {
+            "name": "空間情報科学",
+            "code": "Spatial information science"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "大佛",
+        "firstName": "俊泰",
+        "category": "あ",
+        "lastNameHiragana": "おさらぎ",
+        "firstNameHiragana": "としひろ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Toshihiro",
+        "lastNameEnglish": "Osaragi",
+        "id": "key_rid=1000015558",
+        "lastNameKatakana": "ｵｻﾗｷﾞ",
+        "firstNameKatakana": "ﾄｼﾋﾛ"
+      }
+    },
+    {
+      "index": 7,
+      "attributes": {
+        "urls": [
+          "http://www.udprc.first.iir.titech.ac.jp/kono/",
+          "http://www.udprc.first.iir.titech.ac.jp/kono/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "耐震工学",
+            "code": "Seismic engineering"
+          },
+          {
+            "name": "鉄筋コンクリート構造",
+            "code": "Reinforced concrete structures"
+          },
+          {
+            "name": "プレストレストコンクリート構造",
+            "code": "Prestressed concrete structures"
+          },
+          {
+            "name": "損傷制御",
+            "code": "Damage control structures"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "小原",
+        "firstName": "拓",
+        "category": "あ",
+        "lastNameHiragana": "おばら",
+        "firstNameHiragana": "たく",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Taku",
+        "lastNameEnglish": "Obara",
+        "id": "key_t2r2Rid=CTT100670765",
+        "lastNameKatakana": "ｵﾊﾞﾗ",
+        "firstNameKatakana": "ﾀｸ"
+      }
+    },
+    {
+      "index": 8,
+      "attributes": {
+        "urls": [
+          "http://www.create.mei.titech.ac.jp",
+          "http://www.create.mei.titech.ac.jp"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築環境",
+            "code": "Built environment"
+          },
+          {
+            "name": "室内空気質",
+            "code": "Indoor air quality"
+          },
+          {
+            "name": "空気汚染",
+            "code": "Air pollution"
+          },
+          {
+            "name": "環境設計",
+            "code": "Environmental design"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "鍵",
+        "firstName": "直樹",
+        "category": "か",
+        "lastNameHiragana": "かぎ",
+        "firstNameHiragana": "なおき",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Naoki",
+        "lastNameEnglish": "Kagi",
+        "id": "key_rid=5000039858",
+        "lastNameKatakana": "ｶｷﾞ",
+        "firstNameKatakana": "ﾅｵｷ"
+      }
+    },
+    {
+      "index": 9,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特任教授",
+        "jobCode": "005",
+        "lastName": "笠井",
+        "firstName": "和彦",
+        "category": "か",
+        "lastNameHiragana": "かさい",
+        "firstNameHiragana": "かずひこ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Kazuhiko",
+        "lastNameEnglish": "Kasai",
+        "id": "key_rid=1000222064",
+        "lastNameKatakana": "ｶｻｲ",
+        "firstNameKatakana": "ｶｽﾞﾋｺ"
+      }
+    },
+    {
+      "index": 10,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築意匠・建築論",
+            "code": "Architectural design theory"
+          },
+          {
+            "name": "都市イメージ",
+            "code": "Image of the city"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "香月",
+        "firstName": "歩",
+        "category": "か",
+        "lastNameHiragana": "かつき",
+        "firstNameHiragana": "あゆみ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Ayumi",
+        "lastNameEnglish": "Katsuki",
+        "id": "key_rid=B000310579",
+        "lastNameKatakana": "ｶﾂｷ",
+        "firstNameKatakana": "ｱﾕﾐ"
+      }
+    },
+    {
+      "index": 11,
+      "attributes": {
+        "urls": [
+          "http://www.kanebako-se.co.jp/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築構造設計",
+            "code": "Structural design"
+          },
+          {
+            "name": "耐震改修",
+            "code": "Seismic retfofit"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定教授",
+        "jobCode": "009",
+        "lastName": "金箱",
+        "firstName": "温春",
+        "category": "か",
+        "lastNameHiragana": "かねばこ",
+        "firstNameHiragana": "よしはる",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Yoshiharu",
+        "lastNameEnglish": "Kanebako",
+        "lastNameKatakana": "ｶﾈﾊﾞｺ",
+        "firstNameKatakana": "ﾖｼﾊﾙ"
+      }
+    },
+    {
+      "index": 12,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定教授",
+        "jobCode": "009",
+        "lastName": "加茂",
+        "firstName": "紀和子",
+        "category": "か",
+        "lastNameHiragana": "かも",
+        "firstNameHiragana": "きわこ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "kiwako",
+        "lastNameEnglish": "Kamo",
+        "lastNameKatakana": "ｶﾓ",
+        "firstNameKatakana": "ｷﾜｺ"
+      }
+    },
+    {
+      "index": 13,
+      "attributes": {
+        "urls": [
+          "http://www.udprc.first.iir.titech.ac.jp/~kishikilab/",
+          "http://www.udprc.first.iir.titech.ac.jp/~kishikilab/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "免震、制振による損傷制御",
+            "code": "Base-isolation and passive control structures"
+          },
+          {
+            "name": "耐震補強",
+            "code": "Seismic retrofit for existing buildings"
+          },
+          {
+            "name": "被災度区分と被災後補修",
+            "code": "Post-earthquake damage evaluation and rehabilitation"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "吉敷",
+        "firstName": "祥一",
+        "category": "か",
+        "lastNameHiragana": "きしき",
+        "firstNameHiragana": "しょういち",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Shoichi",
+        "lastNameEnglish": "Kishiki",
+        "id": "key_rid=5000065185",
+        "lastNameKatakana": "ｷｼｷ",
+        "firstNameKatakana": "ｼｮｳｲﾁ"
+      }
+    },
+    {
+      "index": 14,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定教授",
+        "jobCode": "009",
+        "lastName": "小泉",
+        "firstName": "雅生",
+        "category": "か",
+        "lastNameHiragana": "こいずみ",
+        "firstNameHiragana": "まさお",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Masao",
+        "lastNameEnglish": "Koizumi",
+        "lastNameKatakana": "ｺｲｽﾞﾐ",
+        "firstNameKatakana": "ﾏｻｵ"
+      }
+    },
+    {
+      "index": 15,
+      "attributes": {
+        "urls": [
+          "http://www.udprc.first.iir.titech.ac.jp/kono/",
+          "http://www.udprc.first.iir.titech.ac.jp/kono/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "耐震工学",
+            "code": "Seismic engineering"
+          },
+          {
+            "name": "鉄筋コンクリート構造",
+            "code": "Reinforced concrete structures"
+          },
+          {
+            "name": "プレストレストコンクリート構造",
+            "code": "Prestressed concrete structures"
+          },
+          {
+            "name": "防災",
+            "code": "Disaster mitigation"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "河野",
+        "firstName": "進",
+        "category": "か",
+        "lastNameHiragana": "こうの",
+        "firstNameHiragana": "すすむ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Susumu",
+        "lastNameEnglish": "Kono",
+        "id": "key_rid=1000206899",
+        "lastNameKatakana": "ｺｳﾉ",
+        "firstNameKatakana": "ｽｽﾑ"
+      }
+    },
+    {
+      "index": 16,
+      "attributes": {
+        "urls": [
+          "http://www.rcef.gh4.titech.ac.jp/saio/",
+          "http://www.rcef.gh4.titech.ac.jp/saio/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築計画",
+            "code": "Architectural planning"
+          },
+          {
+            "name": "学校施設計画",
+            "code": "School and campus planning"
+          },
+          {
+            "name": "都市計画",
+            "code": "Urban planning"
+          },
+          {
+            "name": "農村計画",
+            "code": "Rural planning"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "斎尾",
+        "firstName": "直子",
+        "category": "さ",
+        "lastNameHiragana": "さいお",
+        "firstNameHiragana": "なおこ",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Naoko",
+        "lastNameEnglish": "Saio",
+        "id": "key_rid=1000279203",
+        "lastNameKatakana": "ｻｲｵ",
+        "firstNameKatakana": "ﾅｵｺ"
+      }
+    },
+    {
+      "index": 17,
+      "attributes": {
+        "urls": [
+          "http://www.sakata-lab.arch.titech.ac.jp/",
+          "http://www.sakata-lab.arch.titech.ac.jp/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "コンクリート構造",
+            "code": "Concrete structure"
+          },
+          {
+            "name": "木質構造",
+            "code": "Timber structure"
+          },
+          {
+            "name": "制振構造",
+            "code": "Passive control structure"
+          },
+          {
+            "name": "耐震設計",
+            "code": "Seismic design"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "坂田",
+        "firstName": "弘安",
+        "category": "さ",
+        "lastNameHiragana": "さかた",
+        "firstNameHiragana": "ひろやす",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Hiroyasu",
+        "lastNameEnglish": "Sakata",
+        "id": "key_rid=1000101859",
+        "lastNameKatakana": "ｻｶﾀ",
+        "firstNameKatakana": "ﾋﾛﾔｽ"
+      }
+    },
+    {
+      "index": 18,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築意匠・建築設計",
+            "code": "Architectural design"
+          },
+          {
+            "name": "建築構成論",
+            "code": "Compositional study in architecture"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "佐々木",
+        "firstName": "啓",
+        "category": "さ",
+        "lastNameHiragana": "ささき",
+        "firstNameHiragana": "けい",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Kei",
+        "lastNameEnglish": "Sasaki",
+        "id": "key_t2r2Rid=CTT100514021",
+        "lastNameKatakana": "ｻｻｷ",
+        "firstNameKatakana": "ｹｲ"
+      }
+    },
+    {
+      "index": 19,
+      "attributes": {
+        "urls": [
+          "https://sites.google.com/site/daikisatotokyotech/",
+          "https://sites.google.com/site/daikisatotokyotech/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "制振構造",
+            "code": "Response control building"
+          },
+          {
+            "name": "免震構造",
+            "code": "Seismically isolated building"
+          },
+          {
+            "name": "耐風設計",
+            "code": "Wind-resistant design"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "佐藤",
+        "firstName": "大樹",
+        "category": "さ",
+        "lastNameHiragana": "さとう",
+        "firstNameHiragana": "だいき",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Daiki",
+        "lastNameEnglish": "Sato",
+        "id": "key_rid=5000040177",
+        "lastNameKatakana": "ｻﾄｳ",
+        "firstNameKatakana": "ﾀﾞｲｷ"
+      }
+    },
+    {
+      "index": 20,
+      "attributes": {
+        "urls": [
+          "http://shiozaki.main.jp",
+          "http://shiozaki.main.jp"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築設計",
+            "code": "Architectural design"
+          },
+          {
+            "name": "建築意匠論",
+            "code": "Architectural theory"
+          },
+          {
+            "name": "都市論",
+            "code": "Theory of urban design"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "塩崎",
+        "firstName": "太伸",
+        "category": "さ",
+        "lastNameHiragana": "しおざき",
+        "firstNameHiragana": "たいしん",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Taishin",
+        "lastNameEnglish": "Shiozaki",
+        "id": "key_rid=5000065048",
+        "lastNameKatakana": "ｼｵｻﾞｷ",
+        "firstNameKatakana": "ﾀｲｼﾝ"
+      }
+    },
+    {
+      "index": 21,
+      "attributes": {
+        "urls": [
+          "http://www.arch.titech.ac.jp/Takeuti_Lab/index.html",
+          "http://www.arch.titech.ac.jp/Takeuti_Lab/index(e).html"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "構造デザイン",
+            "code": "Structural design"
+          },
+          {
+            "name": "鋼構造",
+            "code": "Steel structure"
+          },
+          {
+            "name": "空間構造",
+            "code": "Spatial structure"
+          },
+          {
+            "name": "応答制御構造",
+            "code": "Response control structure"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "竹内",
+        "firstName": "徹",
+        "category": "た",
+        "lastNameHiragana": "たけうち",
+        "firstNameHiragana": "とおる",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Toru",
+        "lastNameEnglish": "Takeuchi",
+        "id": "key_rid=5000064960",
+        "lastNameKatakana": "ﾀｹｳﾁ",
+        "firstNameKatakana": "ﾄｵﾙ"
+      }
+    },
+    {
+      "index": 22,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築計画",
+            "code": "Architectural planning"
+          },
+          {
+            "name": "建築設計",
+            "code": "Architectural design"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "立花",
+        "firstName": "美緒",
+        "category": "た",
+        "lastNameHiragana": "たちばな",
+        "firstNameHiragana": "みお",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Mio",
+        "lastNameEnglish": "Tachibana",
+        "id": "key_t2r2Rid=CTT100670123",
+        "lastNameKatakana": "ﾀﾁﾊﾞﾅ",
+        "firstNameKatakana": "ﾐｵ"
+      }
+    },
+    {
+      "index": 23,
+      "attributes": {
+        "urls": [
+          "http://www.udprc.first.iir.titech.ac.jp/~kishikilab/",
+          "http://www.udprc.first.iir.titech.ac.jp/~kishikilab/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築構造",
+            "code": "Building structure"
+          },
+          {
+            "name": "鋼構造",
+            "code": "Steel structure"
+          },
+          {
+            "name": "耐震工学",
+            "code": "Seismic engineering"
+          },
+          {
+            "name": "構造実験",
+            "code": "Structural experiment"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "巽",
+        "firstName": "信彦",
+        "category": "た",
+        "lastNameHiragana": "たつみ",
+        "firstNameHiragana": "のぶひこ",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Nobuhiko",
+        "lastNameEnglish": "Tatsumi",
+        "id": "key_t2r2Rid=CTT100771398",
+        "lastNameKatakana": "ﾀﾂﾐ",
+        "firstNameKatakana": "ﾉﾌﾞﾋｺ"
+      }
+    },
+    {
+      "index": 24,
+      "attributes": {
+        "urls": [
+          "http://www17.plala.or.jp/Tamura_TokyoTech/index.html"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築基礎構造",
+            "code": "Building foundations"
+          },
+          {
+            "name": "地盤地震工学",
+            "code": "Geotechnical earthquake engineering"
+          },
+          {
+            "name": "液状化",
+            "code": "Soil liquefaction"
+          },
+          {
+            "name": "地盤と構造物の相互作用",
+            "code": "Soil-strucrure interactions"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "田村",
+        "firstName": "修次",
+        "category": "た",
+        "lastNameHiragana": "たむら",
+        "firstNameHiragana": "しゅうじ",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Shuji",
+        "lastNameEnglish": "Tamura",
+        "id": "key_rid=5000081291",
+        "lastNameKatakana": "ﾀﾑﾗ",
+        "firstNameKatakana": "ｼｭｳｼﾞ"
+      }
+    },
+    {
+      "index": 25,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定教授",
+        "jobCode": "009",
+        "lastName": "丹沢",
+        "firstName": "広行",
+        "category": "た",
+        "lastNameHiragana": "たんざわ",
+        "firstNameHiragana": "ひろゆき",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Hiroyuki",
+        "lastNameEnglish": "Tanzawa",
+        "lastNameKatakana": "ﾀﾝｻﾞﾜ",
+        "firstNameKatakana": "ﾋﾛﾕｷ"
+      }
+    },
+    {
+      "index": 26,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築意匠・建築設計",
+            "code": "Architectural design"
+          },
+          {
+            "name": "建築構成論",
+            "code": "Compositional study in architecture"
+          },
+          {
+            "name": "建築・都市論",
+            "code": "Architectural and urban theory"
+          },
+          {
+            "name": "ふるまい学",
+            "code": "Behaviorology"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "塚本",
+        "firstName": "由晴",
+        "category": "た",
+        "lastNameHiragana": "つかもと",
+        "firstNameHiragana": "よしはる",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Yoshiharu",
+        "lastNameEnglish": "Tsukamoto",
+        "id": "key_rid=1000203918",
+        "lastNameKatakana": "ﾂｶﾓﾄ",
+        "firstNameKatakana": "ﾖｼﾊﾙ"
+      }
+    },
+    {
+      "index": 27,
+      "attributes": {
+        "urls": [
+          "http://www.arch.titech.ac.jp/Takeuti_Lab/index.html",
+          "http://www.arch.titech.ac.jp/Takeuti_Lab/index(e).html"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "鋼構造",
+            "code": "Steel structures"
+          },
+          {
+            "name": "空間構造",
+            "code": "Spatial structures"
+          },
+          {
+            "name": "応答制御",
+            "code": "Response control"
+          },
+          {
+            "name": "最適化",
+            "code": "Optimization"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "寺澤",
+        "firstName": "友貴",
+        "category": "た",
+        "lastNameHiragana": "てらざわ",
+        "firstNameHiragana": "ゆうき",
+        "categoryNumber": "4",
+        "firstNameEnglish": "Yuki",
+        "lastNameEnglish": "Terazawa",
+        "id": "key_t2r2Rid=CTT100606502",
+        "lastNameKatakana": "ﾃﾗｻﾞﾜ",
+        "firstNameKatakana": "ﾕｳｷ"
+      }
+    },
+    {
+      "index": 28,
+      "attributes": {
+        "urls": [
+          "http://www.nakamura.enveng.titech.ac.jp/",
+          "http://www.nakamura.enveng.titech.ac.jp/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "視環境設計",
+            "code": "Visual environment design"
+          },
+          {
+            "name": "照明・色彩設計",
+            "code": "Light & color planning"
+          },
+          {
+            "name": "快適性評価",
+            "code": "Amenity evaluation"
+          },
+          {
+            "name": "建築環境工学",
+            "code": "Environmental engineering"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "中村",
+        "firstName": "芳樹",
+        "category": "な",
+        "lastNameHiragana": "なかむら",
+        "firstNameHiragana": "よしき",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Yoshiki",
+        "lastNameEnglish": "Nakamura",
+        "id": "key_rid=1000015829",
+        "lastNameKatakana": "ﾅｶﾑﾗ",
+        "firstNameKatakana": "ﾖｼｷ"
+      }
+    },
+    {
+      "index": 29,
+      "attributes": {
+        "urls": [
+          "http://www.udprc.first.iir.titech.ac.jp/~nishimura/",
+          "http://www.udprc.first.iir.titech.ac.jp/~nishimura/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "都市・環境学コース",
+            "code": "006"
+          },
+          {
+            "name": "建築構造",
+            "code": "Building structures"
+          },
+          {
+            "name": "耐震工学",
+            "code": "Seismic engineering"
+          },
+          {
+            "name": "コンクリート構造",
+            "code": "Concrete structures"
+          },
+          {
+            "name": "防災",
+            "code": "Disaster mitigation"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "西村",
+        "firstName": "康志郎",
+        "category": "な",
+        "lastNameHiragana": "にしむら",
+        "firstNameHiragana": "こうしろう",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Koshiro",
+        "lastNameEnglish": "Nishimura",
+        "id": "key_t2r2Rid=CTT100380810",
+        "lastNameKatakana": "ﾆｼﾑﾗ",
+        "firstNameKatakana": "ｺｳｼﾛｳ"
+      }
+    },
+    {
+      "index": 30,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定准教授",
+        "jobCode": "010",
+        "lastName": "廣川",
+        "firstName": "典昭",
+        "category": "は",
+        "lastNameHiragana": "ひろかわ",
+        "firstNameHiragana": "のりあき",
+        "categoryNumber": "2",
+        "firstNameEnglish": "Noriaki",
+        "lastNameEnglish": "Hirokawa",
+        "lastNameKatakana": "ﾋﾛｶﾜ",
+        "firstNameKatakana": "ﾉﾘｱｷ"
+      }
+    },
+    {
+      "index": 31,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "福田",
+        "firstName": "眞太郎",
+        "category": "は",
+        "lastNameHiragana": "ふくだ",
+        "firstNameHiragana": "しんたろう",
+        "categoryNumber": "2",
+        "firstNameEnglish": "Shintaro",
+        "lastNameEnglish": "Fukuda",
+        "id": "key_t2r2Rid=CTT100558175",
+        "lastNameKatakana": "ﾌｸﾀﾞ",
+        "firstNameKatakana": "ｼﾝﾀﾛｳ"
+      }
+    },
+    {
+      "index": 32,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "エンジニアリングデザインコース",
+            "code": "002"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築計画原論",
+            "code": "Theories in architectural planning and man-emvironment system design"
+          },
+          {
+            "name": "デザイン科学",
+            "code": "Design science"
+          },
+          {
+            "name": "一人称研究の方法論",
+            "code": "Methodologies in studies with first person's view"
+          },
+          {
+            "name": "計算デザイン学",
+            "code": "Computiational designology"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "藤井",
+        "firstName": "晴行",
+        "category": "は",
+        "lastNameHiragana": "ふじい",
+        "firstNameHiragana": "はるゆき",
+        "categoryNumber": "2",
+        "firstNameEnglish": "Haruyuki",
+        "lastNameEnglish": "Fujii",
+        "id": "key_rid=1000279245",
+        "lastNameKatakana": "ﾌｼﾞｲ",
+        "firstNameKatakana": "ﾊﾙﾕｷ"
+      }
+    },
+    {
+      "index": 33,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築構造工学",
+            "code": "Structural engineering"
+          },
+          {
+            "name": "コンクリート系複合構造",
+            "code": "Concrete composite structures"
+          },
+          {
+            "name": "耐震構造",
+            "code": "Earthquake-resistant structures"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "堀田",
+        "firstName": "久人",
+        "category": "は",
+        "lastNameHiragana": "ほった",
+        "firstNameHiragana": "ひさと",
+        "categoryNumber": "2",
+        "firstNameEnglish": "Hisato",
+        "lastNameEnglish": "Hotta",
+        "id": "key_rid=1000203916",
+        "lastNameKatakana": "ﾎｯﾀ",
+        "firstNameKatakana": "ﾋｻﾄ"
+      }
+    },
+    {
+      "index": 34,
+      "attributes": {
+        "urls": [
+          "http://www.sakata-lab.arch.titech.ac.jp/",
+          "http://www.sakata-lab.arch.titech.ac.jp/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築構造",
+            "code": "Building structure"
+          },
+          {
+            "name": "鉄筋コンクリート構造",
+            "code": "Reinforced concrete structure"
+          },
+          {
+            "name": "制振構造",
+            "code": "Seismic response control structure"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "毎田",
+        "firstName": "悠承",
+        "category": "ま",
+        "lastNameHiragana": "まいだ",
+        "firstNameHiragana": "ゆうすけ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Yusuke",
+        "lastNameEnglish": "Maida",
+        "id": "key_rid=B000288407",
+        "lastNameKatakana": "ﾏｲﾀﾞ",
+        "firstNameKatakana": "ﾕｳｽｹ"
+      }
+    },
+    {
+      "index": 35,
+      "attributes": {
+        "urls": [
+          "http://www.mkm.mei.titech.ac.jp/index.html",
+          "http://www.mkm.mei.titech.ac.jp/index_e.html"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築部位性能論",
+            "code": "Performance evaluation of building elements"
+          },
+          {
+            "name": "日常安全性評価",
+            "code": "Safety evaluation of residential environment"
+          },
+          {
+            "name": "建築材料構法",
+            "code": "Building materials and construction"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "三上",
+        "firstName": "貴正",
+        "category": "ま",
+        "lastNameHiragana": "みかみ",
+        "firstNameHiragana": "たかまさ",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Takamasa",
+        "lastNameEnglish": "Mikami",
+        "id": "key_rid=1000015570",
+        "lastNameKatakana": "ﾐｶﾐ",
+        "firstNameKatakana": "ﾀｶﾏｻ"
+      }
+    },
+    {
+      "index": 36,
+      "attributes": {
+        "urls": [
+          "http://www.arch.titech.ac.jp/ikarashi_lab/",
+          "http://www.arch.titech.ac.jp/ikarashi_lab/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "鋼構造",
+            "code": "Steel structure"
+          },
+          {
+            "name": "耐震工学",
+            "code": "Seismic engineering"
+          },
+          {
+            "name": "構造実験",
+            "code": "Structural experiment"
+          },
+          {
+            "name": "安定論",
+            "code": "Stability"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "助教",
+        "jobCode": "004",
+        "lastName": "三井",
+        "firstName": "和也",
+        "category": "ま",
+        "lastNameHiragana": "みつい",
+        "firstNameHiragana": "かずや",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Kazuya",
+        "lastNameEnglish": "Mitsui",
+        "id": "key_rid=7000029796",
+        "lastNameKatakana": "ﾐﾂｲ",
+        "firstNameKatakana": "ｶｽﾞﾔ"
+      }
+    },
+    {
+      "index": 37,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "特定教授",
+        "jobCode": "009",
+        "lastName": "三原",
+        "firstName": "正一",
+        "category": "ま",
+        "lastNameHiragana": "みはら",
+        "firstNameHiragana": "しょういち",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Shoichi",
+        "lastNameEnglish": "Mihara",
+        "lastNameKatakana": "ﾐﾊﾗ",
+        "firstNameKatakana": "ｼｮｳｲﾁ"
+      }
+    },
+    {
+      "index": 38,
+      "attributes": {
+        "urls": [
+          "http://www.arch.titech.ac.jp/murata/",
+          "http://www.arch.titech.ac.jp/murata/"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "エンジニアリングデザインコース",
+            "code": "002"
+          },
+          {
+            "name": "環境建築",
+            "code": "Environmental architecture"
+          },
+          {
+            "name": "パッシブソーラーデザイン",
+            "code": "Passive solar design"
+          },
+          {
+            "name": "建築設計",
+            "code": "Architectural design"
+          },
+          {
+            "name": "建築計画",
+            "code": "Architectural planning"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "村田",
+        "firstName": "涼",
+        "category": "ま",
+        "lastNameHiragana": "むらた",
+        "firstNameHiragana": "りょう",
+        "categoryNumber": "3",
+        "firstNameEnglish": "Ryo",
+        "lastNameEnglish": "Murata",
+        "id": "key_rid=6000012457",
+        "lastNameKatakana": "ﾑﾗﾀ",
+        "firstNameKatakana": "ﾘｮｳ"
+      }
+    },
+    {
+      "index": 39,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "エンジニアリングデザインコース",
+            "code": "002"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "安田",
+        "firstName": "幸一",
+        "category": "や",
+        "lastNameHiragana": "やすだ",
+        "firstNameHiragana": "こういち",
+        "categoryNumber": "5",
+        "firstNameEnglish": "Koichi",
+        "lastNameEnglish": "Yasuda",
+        "id": "key_rid=5000039852",
+        "lastNameKatakana": "ﾔｽﾀﾞ",
+        "firstNameKatakana": "ｺｳｲﾁ"
+      }
+    },
+    {
+      "index": 40,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "近代建築史",
+            "code": "History of modern architecture"
+          },
+          {
+            "name": "日本建築史",
+            "code": "History of Japanese architecture"
+          },
+          {
+            "name": "歴史的建造物の保存",
+            "code": "Preservation and conservation of historic buildings"
+          },
+          {
+            "name": "建築アーカイブズ",
+            "code": "Architectural archives"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "山﨑",
+        "firstName": "鯛介",
+        "category": "や",
+        "lastNameHiragana": "やまざき",
+        "firstNameHiragana": "たいすけ",
+        "categoryNumber": "5",
+        "firstNameEnglish": "Taisuke",
+        "lastNameEnglish": "Yamazaki",
+        "id": "key_rid=1000275246",
+        "lastNameKatakana": "ﾔﾏｻﾞｷ",
+        "firstNameKatakana": "ﾀｲｽｹ"
+      }
+    },
+    {
+      "index": 41,
+      "attributes": {
+        "urls": [],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "エンジニアリングデザインコース",
+            "code": "002"
+          },
+          {
+            "name": "建築設備",
+            "code": "Building services"
+          },
+          {
+            "name": "建築環境工学",
+            "code": "Environmental engineering"
+          },
+          {
+            "name": "エネルギー消費",
+            "code": "Energy consumption"
+          },
+          {
+            "name": "省エネルギー",
+            "code": "Energy conservation"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "准教授",
+        "jobCode": "002",
+        "lastName": "湯淺",
+        "firstName": "和博",
+        "category": "や",
+        "lastNameHiragana": "ゆあさ",
+        "firstNameHiragana": "かずひろ",
+        "categoryNumber": "5",
+        "firstNameEnglish": "Kazuhiro",
+        "lastNameEnglish": "Yuasa",
+        "id": "key_rid=1000015567",
+        "lastNameKatakana": "ﾕｱｻ",
+        "firstNameKatakana": "ｶｽﾞﾋﾛ"
+      }
+    },
+    {
+      "index": 42,
+      "attributes": {
+        "urls": [
+          "http://www.arch.titech.ac.jp/yokoyama_lab/index.html",
+          "http://www.arch.titech.ac.jp/yokoyama_lab/en/index.html"
+        ],
+        "selections": [
+          {
+            "name": "建築学系",
+            "code": "025"
+          },
+          {
+            "name": "建築学コース",
+            "code": "025"
+          },
+          {
+            "name": "建築材料",
+            "code": "Building material"
+          },
+          {
+            "name": "建築構法",
+            "code": "Building system"
+          },
+          {
+            "name": "建築施工",
+            "code": "Building construction"
+          }
+        ],
+        "siteName": "建築学系",
+        "code": "025",
+        "job": "教授",
+        "jobCode": "001",
+        "lastName": "横山",
+        "firstName": "裕",
+        "category": "や",
+        "lastNameHiragana": "よこやま",
+        "firstNameHiragana": "ゆたか",
+        "categoryNumber": "5",
+        "firstNameEnglish": "Yutaka",
+        "lastNameEnglish": "Yokoyama",
+        "id": "key_rid=1000222059",
+        "lastNameKatakana": "ﾖｺﾔﾏ",
+        "firstNameKatakana": "ﾕﾀｶ"
+      }
+    }
+  ]
+}
